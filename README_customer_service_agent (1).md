@@ -1,3 +1,8 @@
+![Made with Make.com](https://img.shields.io/badge/Made%20with-Make.com-blue) 
+![AI Powered](https://img.shields.io/badge/AI-Powered-green) 
+![Automation](https://img.shields.io/badge/Workflow-Automation-orange)
+
+
 # Make.com Customer Service Agent Workflow
 
 ## 📌 Overview
