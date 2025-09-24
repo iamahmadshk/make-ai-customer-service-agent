@@ -38,4 +38,4 @@ The workflow watches for new Google Form responses, then passes the input to a *
 I am learning and exploring **AI-powered automation** with Make.com and its AI Agent capabilities.  
 This project shows how businesses can use AI to provide **fast, automated customer support** from form submissions.  
 
-👉 Connect with me on [LinkedIn](https://www.linkedin.com/in/your-profile/)  
+👉 Connect with me on [LinkedIn](https://www.linkedin.com/in/muhammadahmad999/)  
